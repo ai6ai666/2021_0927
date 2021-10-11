@@ -1,4 +1,4 @@
-![PERTCPM](PERTCPM.png)
+![PERTCPM](PERT.png)
 
 ![GANTT](Gantt.png)
 
