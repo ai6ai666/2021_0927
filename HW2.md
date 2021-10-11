@@ -1,9 +1,5 @@
+### PERT/CPM圖和關鍵路徑
 ![PERTCPM](PERT.png)
-
-![GANTT](Gantt.png)
-
-###PERT/CPM圖和關鍵路徑
-
 ```graphviz
 digraph {
 	node[shape=record];
@@ -41,6 +37,7 @@ digraph {
 
 
 ### 甘特圖
+![GANTT](Gantt.png)
 ```mermaid
 gantt
     title A Gantt Diagram
